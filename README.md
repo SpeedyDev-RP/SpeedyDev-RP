@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SpeedyDev-RP
 - 👀 I’m a FiveM Developer
 - 🌱 I’m currently learning Lua and c++
-- 💞️ I’m Currently working on a server 
-- 😄 Pronouns: Goth/Girls
-- ⚡ Fun fact: I love your mom
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love learning code
 
 <!---
 SpeedyDev-RP/SpeedyDev-RP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
